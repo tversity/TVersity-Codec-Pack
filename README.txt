@@ -1,0 +1,1 @@
+The codec pack used by the TVersity Media Server on Windows. This is open source and the license is GPL.
